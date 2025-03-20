@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Chính Sách Bảo Mật"
+---
 
 # Chính Sách Bảo Mật Thông Tin của EatsHub
 
